@@ -23,12 +23,16 @@
   <p></p>  
 </div>
   
-
-  
- <div align=center>   
+ <div align=center>
+     <img align="center" width="148" height="180" src="https://user-images.githubusercontent.com/29803756/87879392-c9840e00-c9c0-11ea-9efd-4618c9d264ca.png">
+ </div>
+   <p></p> 
+  <div align=center>   
    
   <a href = "mailto:eng.caiojannuzzi@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caiojannuzzi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
+   
    
  </div> 
 
