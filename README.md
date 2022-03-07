@@ -7,7 +7,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/cjannuzzi">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/wakatime?username=cjannuzzi&show_icons=true&theme=tokyonight"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@53b157dd-0a06-4ae0-8ec4-ee3d775f6844&show_icons=true&theme=tokyonight"/>
 </div>
 </div>
  <div align=center>
