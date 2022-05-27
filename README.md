@@ -5,11 +5,7 @@
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjannuzzi&layout=compact&show_icons=true&theme=tokyonight&count_private=true"/>
 
 </div>
-<div align="center">
-  <a href="https://github.com/cjannuzzi">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@53b157dd-0a06-4ae0-8ec4-ee3d775f6844&show_icons=true&theme=tokyonight"/>
-</div>
-</div>
+
  <div align=center>
      <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
  </div>
