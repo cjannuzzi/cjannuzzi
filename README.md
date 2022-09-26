@@ -1,11 +1,11 @@
 <h1 align="center">Caio Jannuzzi</h1>
 <h3 align="center">Back-end Developer</h3>
 
-Atualmente no 2º período de Ciência da Computação. Engenheiro civil por formação e pós graduando em Engenharia de Software. Sou apaixonado por tecnologia, educação e empreendedorismo. Sempre gostei bastante de lógica e a curiosidade em saber como é funcionamento das coisas me levou a área de tecnologia. 
+Aluno de Análise e Desenvolvimento de Sistemas na Universidade de Vassouras. Engenheiro civil por formação e pós graduando em Engenharia de Software. Sou apaixonado por tecnologia, educação e empreendedorismo. Sempre gostei bastante de lógica e a curiosidade em saber como é o funcionamento das coisas me levou a área de tecnologia. 
 Com decisões apoiadas em ferramentas confiáveis e extraindo valor delas é possível atingir uma grande vantagem competitiva e podemos proporcionar a melhoria do negócio, assim como dos seus serviços, impactando positivamente a sociedade.
 Enfim, saindo da construção civil para a construção digital 😄
 
-## Languages and Tools
+## Skills
 <code>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</code>
 <code>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</code>
 <code>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</code>
