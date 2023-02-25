@@ -1,7 +1,7 @@
 <h1 align="center">Caio Jannuzzi</h1>
 <h3 align="center">Back-end Developer</h3>
 
-Aluno de Análise e Desenvolvimento de Sistemas na Universidade de Vassouras. Engenheiro civil por formação e pós graduando em Engenharia de Software. Sou apaixonado por tecnologia, educação e empreendedorismo. Sempre gostei bastante de lógica e a curiosidade em saber como é o funcionamento das coisas me levou a área de tecnologia. 
+Aluno de Análise e Desenvolvimento de Sistemas na Universidade de Vassouras. Engenheiro civil por formação e pós graduado em Engenharia de Software, Business Intelligence, Big Data e Ciência de Dados. Sou apaixonado por tecnologia, educação e empreendedorismo. Sempre gostei bastante de lógica e a curiosidade em saber como é o funcionamento das coisas me levou a área de tecnologia. 
 Com decisões apoiadas em ferramentas confiáveis e extraindo valor delas é possível atingir uma grande vantagem competitiva e podemos proporcionar a melhoria do negócio, assim como dos seus serviços, impactando positivamente a sociedade.
 Enfim, saindo da construção civil para a construção digital 😄
 
