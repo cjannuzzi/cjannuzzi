@@ -11,7 +11,7 @@ Enfim, saindo da construção civil para a construção digital 😄
 <code>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</code>
 <code>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</code>
 <code>![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</code>
-<code> ![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)</code>
+<!--code> ![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)</code>-->
 
 
 <!--<code> ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) </code>-->
@@ -23,8 +23,6 @@ Enfim, saindo da construção civil para a construção digital 😄
 - 🔭 Trabalho, atualmente, na Universidade de Vassouras.
 - 🌱 Estou me aprofundando em Python.
 - 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento.
-- 😄 Pronomes: Ele/Dele.
-
 
 
 [![caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjannuzzi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
