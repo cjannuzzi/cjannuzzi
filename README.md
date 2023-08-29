@@ -1,9 +1,14 @@
 <h1 align="center">Caio Jannuzzi</h1>
 <h3 align="center">Back-end Developer</h3>
 
-Aluno de Análise e Desenvolvimento de Sistemas na Universidade de Vassouras. Engenheiro civil por formação e pós graduado em Engenharia de Software, Business Intelligence, Big Data e Ciência de Dados. Sou apaixonado por tecnologia, educação e empreendedorismo. Sempre gostei bastante de lógica e a curiosidade em saber como é o funcionamento das coisas me levou a área de tecnologia. 
-Com decisões apoiadas em ferramentas confiáveis e extraindo valor delas é possível atingir uma grande vantagem competitiva e podemos proporcionar a melhoria do negócio, assim como dos seus serviços, impactando positivamente a sociedade.
-Enfim, saindo da construção civil para a construção digital 😄
+<div>Aluno de Análise e Desenvolvimento de Sistemas na Universidade de Vassouras.  Sou apaixonado por tecnologia, educação e empreendedorismo. Sempre gostei bastante de lógica e a curiosidade em saber como é o funcionamento das coisas me levou a área de tecnologia.</div>
+<br>
+<div>Engenheiro civil por formação e pós-graduado em Engenharia de Software, Business Intelligence, Big Data e Ciência de Dados.</div>
+<br>
+<div>& Professor universitário</div>
+<br>
+<div>Com decisões apoiadas em ferramentas confiáveis e extraindo valor delas é possível atingir uma grande vantagem competitiva e podemos proporcionar a melhoria do negócio, assim como dos seus serviços, impactando positivamente a sociedade.
+Enfim, saindo da construção civil para a construção digital 😄</div>
 
 ## Skills
 <code>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</code>
