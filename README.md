@@ -4,7 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist | Machine Learning
 ---------------------------------
 
-I am passionate about technology, education and entrepreneurship. I've always really liked logic and my curiosity in knowing how things work led me to the technology area. Civil engineer by training and postgraduate degree in Software Engineering, Business Intelligence, Big Data and Data Science. I am currently a university professor at the University of Vassouras (BRAZIL) training future software engineers in the disciplines of Algorithms, Computational Thinking, Web Site Programming Laboratory and Back End Programming Laboratory Decisions that are supported by reliable tools and extracting value from them make it possible to achieve a great competitive advantage and we can improve the business, as well as its services, positively impacting society. Anyway, moving from civil construction to digital construction 😄
+I am passionate about technology, education and entrepreneurship. I've always really liked logic and my curiosity in knowing how things work led me to the technology area. 
+<br>
+<br>
+Civil engineer by training and postgraduate degree in Software Engineering, Business Intelligence, Big Data and Data Science. 
+<br>
+<br>
+I am currently a university professor at the University of Vassouras (BRAZIL) training future software engineers in the disciplines of Algorithms, Computational Thinking, Web Site Programming Laboratory and Back End Programming Laboratory.
+<br>
+<br>
+<!--Decisions that are supported by reliable tools and extracting value from them make it possible to achieve a great competitive advantage and we can improve the business, as well as its services, positively impacting society. Anyway, moving from civil construction to digital construction 😄-->
 
 * 🌍  I'm based in Rio de Janeiro, Brazil.
 * ✉️  You can contact me at [caio.jannuzzi@outlook.com](mailto:caio.jannuzzi@outlook.com)
@@ -27,7 +36,6 @@ src="https://img.shields.io/github/followers/cjannuzzi?logo=github&style=for-the
 ### Socials
 
 <a href="https://www.linkedin.com/in/caiojannuzzi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
-
 <a href="https://www.x.com/caiojannuzzii" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
 
 ### Badges
