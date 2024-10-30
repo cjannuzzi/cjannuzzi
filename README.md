@@ -10,7 +10,7 @@ I am passionate about technology, education and entrepreneurship. I've always re
 Civil engineer by training and postgraduate degree in Software Engineering, Business Intelligence, Big Data and Data Science. 
 <br>
 <br>
-I am currently a university professor at the University of Vassouras (BRAZIL) training future software engineers in the disciplines of Algorithms, Computational Thinking, Web Site Programming Laboratory and Back End Programming Laboratory.
+I am currently a university professor at the University of Vassouras (BRAZIL) training future software engineers in the disciplines of Algorithms, Computational Thinking, Web Site Programming Laboratory, Back End Programming Laboratory, Data Structure and Advanced Data Structure.
 <br>
 <br>
 <!--Decisions that are supported by reliable tools and extracting value from them make it possible to achieve a great competitive advantage and we can improve the business, as well as its services, positively impacting society. Anyway, moving from civil construction to digital construction 😄-->
