@@ -18,7 +18,7 @@ I am currently a university professor at the University of Vassouras (BRAZIL) tr
 * 🌍  I'm based in Rio de Janeiro, Brazil.
 * ✉️  You can contact me at [caio.jannuzzi@outlook.com](mailto:caio.jannuzzi@outlook.com)
 * 🚀  I'm currently working on [Educational Projects](http://github.com/cjannuzzi/ESW-lab-prog-web-sites)
-* 🧠  I'm learning Django
+* 🧠  I'm learning Computer Vision
 * 🤝  I'm open to collaborating on projects aimed at Education | Machine Learning | Backend
 * ⚡  If you like anime and series, we are automatically friends
 
