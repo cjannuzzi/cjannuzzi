@@ -1,5 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Caio Jannuzzi
-=====================================================================================================================================
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hi%2C+my+name+is+Caio+Jannuzzi!;Nice+to+meet+you!)](https://git.io/typing-svg)
+<!-- para editar o texto acima: https://readme-typing-svg.demolab.com/demo/?size=25&lines=Hi%2C+my+name+is+Caio+Jannuzzi!;Nice+to+meet+you! -->
+=======================================================================================================
+
 
 Data Scientist | Machine Learning
 ---------------------------------
@@ -91,6 +93,8 @@ src="https://img.shields.io/github/followers/cjannuzzi?logo=github&style=for-the
 
 </ul>
 
+[![Caio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cjannuzzi&theme=tokyo-night&area=true&area_color=6E00D8&point=bcbcbc)](https://github.com/cjannuzzi/github-readme-activity-graph)
+<!-- para fazer alerações ou pegar novos parametros: https://github.com/Ashutosh00710/github-readme-activity-graph#how-to-use -->
 <!--## Skills-->
 <!--code>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</code-->
 <!--code>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</code-->
