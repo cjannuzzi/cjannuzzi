@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hi%2C+my+name+is+Caio+Jannuzzi!;Nice+to+meet+you!)](https://git.io/typing-svg)
 <!-- para editar o texto acima: https://readme-typing-svg.demolab.com/demo/?size=25&lines=Hi%2C+my+name+is+Caio+Jannuzzi!;Nice+to+meet+you! -->
-=======================================================================================================
+=================================================================================================
 
 
 Data Scientist | Machine Learning
