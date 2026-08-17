@@ -1,111 +1,73 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hi%2C+my+name+is+Caio+Jannuzzi!;Nice+to+meet+you!)](https://git.io/typing-svg)
-<!-- para editar o texto acima: https://readme-typing-svg.demolab.com/demo/?size=25&lines=Hi%2C+my+name+is+Caio+Jannuzzi!;Nice+to+meet+you! -->
-========================================================================================
+<div align="center">
 
+# Hi, I'm Caio Jannuzzi 👋
 
-Data Scientist | Machine Learning
----------------------------------
+### Civil Engineer • University Professor • Technology Enthusiast
 
-I am passionate about technology, education and entrepreneurship. I've always really liked logic and my curiosity in knowing how things work led me to the technology area. 
-<br>
-<br>
-Civil engineer by training and postgraduate degree in Software Engineering, Business Intelligence, Big Data and Data Science. 
-<br>
-<br>
-I am currently a university professor at the University of Vassouras (BRAZIL) training future software engineers in the disciplines of Algorithms, Computational Thinking, Web Site Programming Laboratory, Back End Programming Laboratory, Data Structure and Advanced Data Structure.
-<br>
-<br>
-<!--Decisions that are supported by reliable tools and extracting value from them make it possible to achieve a great competitive advantage and we can improve the business, as well as its services, positively impacting society. Anyway, moving from civil construction to digital construction 😄-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiojannuzzi/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cjannuzzi)
+[![Lattes](https://img.shields.io/badge/Lattes-1F4E79?style=for-the-badge&logoColor=white)](http://lattes.cnpq.br/4240579854656410)
 
-* 🌍  I'm based in Rio de Janeiro, Brazil.
-* ✉️  You can contact me at [caio.jannuzzi@outlook.com](mailto:caio.jannuzzi@outlook.com)
-* 🚀  I'm currently working on [Educational Projects](http://github.com/cjannuzzi/ESW-lab-prog-web-sites)
-<!--* 🧠  I'm learning Computer Vision -->
-* 🤝  I'm open to collaborating on projects aimed at Education | Machine Learning | Backend
-* ⚡  If you like anime and series, we are automatically friends
+</div>
 
-<a href="https://www.github.com/cjannuzzi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/cjannuzzi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+## About me
 
-### Skills
+I am a Civil Engineer and university professor at [Universidade de Vassouras](https://www.univassouras.edu.br/), working at the intersection of engineering, education, safety, and software development.
 
+My current interests include technology applied to engineering workflows, educational software, backend development, data and automation, information security, and practical ways to make technical work clearer and more efficient.
 
-<p align="left">
-<!-- Python -->
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<!-- HTML5 -->
-<!-- HTML5 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> -->
-<!-- CSS3 -->
-<!-- CSS3 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> -->
-<!-- Vue -->
-<!-- Vue <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a> -->
-<!-- React -->
-<!-- React <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> -->
- <!-- PostgreSQL --> 
-<!-- PostgreSQL <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> --> 
-<!-- Heroku --> 
-<!-- Heroku <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>  -->
-<!-- Django -->
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<!-- Amazon Web Services --> 
-<!-- Amazon Web Services  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a> -->
-<!-- Docker --> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<!-- Linux --> 
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<!-- MacOS --> 
-<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
-<!-- TensorFlow --> 
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-<!-- PyTorch --> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-<!-- Google Cloud --> 
-<!-- Google Cloud <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a> -->
+I am also pursuing postgraduate studies in Railway Engineering and enjoy translating complex subjects into simple, useful learning experiences.
+
+- 🇧🇷 Based in Rio de Janeiro, Brazil
+- 🎓 Teaching Algorithms, Computational Thinking, Web Development, Backend Development, and Data Structures
+- 🧩 Building educational and engineering-focused tools
+- 🐳 Exploring Linux, Docker, automation, and privacy-first client-side applications
+- 🤝 Open to collaborations in education, engineering technology, backend, data, and machine learning
+- ✉️ [Get in touch](mailto:caio.jannuzzi@outlook.com)
+
+## What I build
+
+| Area | Interests and projects |
+| --- | --- |
+| Education | Learning resources, programming laboratories, and tools for future software engineers |
+| Engineering | Digital workflows, technical communication, safety, and applied computing |
+| Software | Python, Django, JavaScript, backend services, automation, and client-side utilities |
+| Infrastructure | Linux, Docker, development environments, and reproducible workflows |
+| Data & AI | Data science, machine learning, visualization, and responsible use of AI |
+
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,docker,linux,git,github,vscode,tensorflow,pytorch" alt="Python, Django, JavaScript, HTML, CSS, Docker, Linux, Git, GitHub, VS Code, TensorFlow and PyTorch" />
 </p>
 
+## Featured work
 
-### Socials
+### [Explore my repositories](https://github.com/cjannuzzi?tab=repositories)
 
-<a href="https://www.linkedin.com/in/caiojannuzzi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
-<!--<a href="https://www.x.com/caiojannuzzii" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>-->
+Educational and engineering-focused experiments connecting software development with real-world workflows, including programming materials, browser-based utilities, automation, data, and technical communication.
 
-### Badges
+## GitHub activity
 
-<b>My GitHub Stats</b>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cjannuzzi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" alt="Caio's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjannuzzi&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Caio's most used languages" />
+</div>
 
-<a href="http://www.github.com/cjannuzzi"><img src="https://github-readme-stats.vercel.app/api?username=cjannuzzi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cjannuzzi's GitHub stats" /></a>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cjannuzzi&theme=github-compact&hide_border=true&area=true" alt="Caio's GitHub activity graph" />
+</div>
 
-<a href="http://www.github.com/cjannuzzi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cjannuzzi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## Contribution journey
 
-<a href="https://github.com/cjannuzzi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjannuzzi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cjannuzzi/cjannuzzi/output/github-contribution-snake.svg" alt="Animated snake eating Caio's GitHub contributions" />
+</div>
 
-<b>Top Repositories</b>
+<div align="center">
 
-<div width="100%" align="center"><a href="https://github.com/cjannuzzi/ESW-lab-prog-web-sites" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cjannuzzi&repo=ESW-lab-prog-web-sites&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### Thanks for visiting!
 
-<!--### Support Me
+Feel free to explore the repositories, connect on LinkedIn, or reach out about a project.
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/caiojannuzzi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/caiojannuzzi"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul> -->
-
-[![Caio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cjannuzzi&theme=tokyo-night&area=true&area_color=6E00D8&point=bcbcbc)](https://github.com/cjannuzzi/github-readme-activity-graph)
-<!-- para fazer alerações ou pegar novos parametros: https://github.com/Ashutosh00710/github-readme-activity-graph#how-to-use -->
-<!--## Skills-->
-<!--code>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</code-->
-<!--code>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</code-->
-<!--code>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</code-->
-<!--code>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</code-->
-<!--code>![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</code-->
-<!--code> ![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)</code>-->
-
-
-<!--<code> ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) </code>-->
-<!--![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)-->
-<!--![Django Rest](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)-->
-<!--![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)-->
-
+</div>
