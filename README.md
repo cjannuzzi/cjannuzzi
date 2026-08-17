@@ -50,8 +50,8 @@ Educational and engineering-focused experiments connecting software development 
 ## GitHub activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cjannuzzi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" alt="Caio's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjannuzzi&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Caio's most used languages" />
+  <img height="170" src="./profile/stats.svg" alt="Caio's GitHub statistics" />
+  <img height="170" src="./profile/top-langs.svg" alt="Caio's most used languages" />
 </div>
 
 <div align="center">
