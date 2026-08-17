@@ -51,7 +51,6 @@ Educational and engineering-focused experiments connecting software development 
 
 <div align="center">
   <img height="170" src="./profile/stats.svg" alt="Caio's GitHub statistics" />
-  <img height="170" src="./profile/top-langs.svg" alt="Caio's most used languages" />
 </div>
 
 <div align="center">
