@@ -77,7 +77,7 @@
         stroke-dashoffset: 251.33;
       }
       to {
-        stroke-dashoffset: 216.76;
+        stroke-dashoffset: 216.75;
       }
     }
   
